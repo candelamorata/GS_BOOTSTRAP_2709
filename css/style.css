@@ -1,0 +1,9 @@
+body{
+    background-color:lemonchiffon;
+}
+
+.cont-pr .row *{
+    padding: 1rem 2rem;
+    background-color: rgba(232, 208, 255, 0.768);
+    border: 1px solid blueviolet;
+}
